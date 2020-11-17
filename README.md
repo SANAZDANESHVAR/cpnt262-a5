@@ -1,6 +1,6 @@
 # CPNT262 Assignment 5: JSON Server with Heroku and MongoDB Atlas
 ## by Sanaz Daneshvar
-### [Github link] (https://sanazdaneshvar.github.io/cpnt262-a5/)
+### [Github link] (https://sanazdaneshvar.github.io/cpnt262-a5)
 ### [Github page] (https://github.com/SANAZDANESHVAR)
 ### [ Heroku link] (https://cpnt262-a5-sanaz.herokuapp.com/)
    
